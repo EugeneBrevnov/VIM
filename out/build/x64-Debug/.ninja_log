@@ -1,0 +1,15 @@
+# ninja log v5
+4	108	0	../../../PDCurses/wincon/pdcurses.lib	d808f932d6e91700
+151	1399	633141124	CMakeFiles/vim.dir/view/TextField.cpp.obj	233da1f94de703d9
+158	1528	633141125	CMakeFiles/vim.dir/view/TextView.cpp.obj	b4bd5971b338b597
+133	1673	633141125	CMakeFiles/vim.dir/model/Model.cpp.obj	9f518fdb664e76e9
+144	1813	633141125	CMakeFiles/vim.dir/controller/command_controller.cpp.obj	5c1ba3a5cebd3d49
+181	1842	633141125	CMakeFiles/vim.dir/controller/input_controller.cpp.obj	3146adc411cb54c6
+115	1881	633141125	CMakeFiles/vim.dir/main.cpp.obj	ec862da8508c89a5
+173	1929	633141125	CMakeFiles/vim.dir/controller/search_mode.cpp.obj	c2ecac2f2f3e14dd
+167	1995	633141125	CMakeFiles/vim.dir/controller/help_controller.cpp.obj	53d0421a37717a51
+109	2054	633141125	CMakeFiles/vim.dir/view/Window.cpp.obj	61bedb1c8d254cc7
+126	2379	633141125	CMakeFiles/vim.dir/controller/normal_controller.cpp.obj	153dcfd736b5b4c2
+1400	2591	633141126	CMakeFiles/vim.dir/MyString/MyString.cpp.obj	8535b87277ad94e3
+1528	2728	633141126	CMakeFiles/vim.dir/controller/Controller.cpp.obj	a2c0b29fb99e3846
+2728	3480	633141127	vim.exe	125fdd71d378daf7

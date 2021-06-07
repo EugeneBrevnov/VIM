@@ -1,0 +1,4 @@
+C:/Users/79211/Desktop/OOP3/vim-main/out/build/x64-Debug/CMakeFiles/curses.dir
+C:/Users/79211/Desktop/OOP3/vim-main/out/build/x64-Debug/CMakeFiles/vim.dir
+C:/Users/79211/Desktop/OOP3/vim-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/79211/Desktop/OOP3/vim-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
